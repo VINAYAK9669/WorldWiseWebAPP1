@@ -62,7 +62,7 @@ Embark on a journey of learning and discovery while working on the WorldWise Map
    - Optimize your app for better performance, including:
      - Profiler with Developer Tools.
      - Tricks to reduce wasteful renders.
-     - Understanding `memo`, `useMemo`, and `useCallback`.
+     - Understood and implemented `memo`, `useMemo`, and `useCallback`.
 
 ### 📌 16. Bundle Size Optimization
    - Reduce bundle size and improve load times using lazy loading and code splitting.
