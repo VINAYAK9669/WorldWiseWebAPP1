@@ -56,16 +56,22 @@ Embark on a journey of learning and discovery while working on the WorldWise Map
    - Elevate your app's state management using context and `useReducer`.
 
 ### 📌 14. Authentication
-   - Secure routes with fake authentication.
+   - Secure your routes with fake authentication.
 
 ### 📌 15. Performance Optimization
    - Optimize your app for better performance, including:
-     - Profiler with Developer Tools.
+     - Profiling with Developer Tools.
      - Tricks to reduce wasteful renders.
-     - Understood and implemented `memo`, `useMemo`, and `useCallback`.
+     - Understanding `memo`, `useMemo`, and `useCallback`.
 
 ### 📌 16. Bundle Size Optimization
    - Reduce bundle size and improve load times using lazy loading and code splitting.
+
+### 📌 17. API Integration
+   - Utilize API requests for data management, including:
+     - Sending POST requests.
+     - Fetching data with GET requests.
+     - Deleting data with DELETE requests.
 
 ## Getting Started 🚀
 
