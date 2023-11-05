@@ -60,7 +60,7 @@ Embark on a journey of learning and discovery while working on the WorldWise Map
 
 ### 📌 15. Performance Optimization
    - Optimize your app for better performance, including:
-     - Profiling with Developer Tools.
+     - Profiler with Developer Tools.
      - Tricks to reduce wasteful renders.
      - Understanding `memo`, `useMemo`, and `useCallback`.
 
