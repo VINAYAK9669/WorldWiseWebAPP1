@@ -56,7 +56,7 @@ Embark on a journey of learning and discovery while working on the WorldWise Map
    - Elevate your app's state management using context and `useReducer`.
 
 ### 📌 14. Authentication
-   - Secure your routes with fake authentication.
+   - Secure routes with fake authentication.
 
 ### 📌 15. Performance Optimization
    - Optimize your app for better performance, including:
