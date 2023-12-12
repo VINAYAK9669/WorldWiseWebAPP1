@@ -4,6 +4,7 @@ A powerful and interactive map application built with HTML, CSS, JavaScript, Rea
 
 [![GitHub](https://img.shields.io/badge/GitHub-WorldWise-brightgreen?style=for-the-badge)](https://github.com/VINAYAK9669/WorldWiseWebAPP1)
 [![Netlify](https://img.shields.io/badge/Netlify-Hosted-blue?style=for-the-badge)](https://worldwise-desktop-map-app.netlify.app/)
+[Checkout the LinkedIn Post with Video demo](https://www.linkedin.com/posts/vinay1998_reactdeveloper-frontenddeveloper-webdeveloper-activity-7126886261495140352-DVCN?utm_source=share&utm_medium=member_desktop)
 
 ## Learning Objectives 📚
 
