@@ -1,6 +1,6 @@
 # 🌍 WorldWise Map Application - Desktop App 🗺️
 
-A powerful and interactive map application built with HTML, CSS, JavaScript, React.js, and more. Explore the world in a whole new way!
+This React Vite Single Page Application enables users to efficiently interact with a map, allowing them to select locations for updating personal notes. Users can seamlessly add or delete cities, leveraging a mock API for local machine operations, as backend functionality is not available on the hosted website.
 
 [![GitHub](https://img.shields.io/badge/GitHub-WorldWise-brightgreen?style=for-the-badge)](https://github.com/VINAYAK9669/WorldWiseWebAPP1)
 [![Netlify](https://img.shields.io/badge/Netlify-Hosted-blue?style=for-the-badge)](https://worldwise-desktop-map-app.netlify.app/)
