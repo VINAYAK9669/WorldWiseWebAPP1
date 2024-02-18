@@ -75,8 +75,25 @@ Embark on a journey of learning and discovery while working on the WorldWise Map
      - Fetching data with GET requests.
      - Deleting data with DELETE requests.
 
-## Getting Started 🚀
+## How to Install and Run
 
-To start exploring the world with WorldWise Map Application, simply follow the [Netlify Hosted Link](https://worldwise-desktop-map-app.netlify.app/). You can also dive into the codebase on [GitHub](https://github.com/VINAYAK9669/WorldWiseWebAPP1).
+1. Clone the repository:
+
+    ```bash
+   gh repo clone VINAYAK9669/WorldWiseWebAPP1
+    ```
+
+2. Install dependencies:
+
+    ```bash
+    cd WorldWiseWebAPP1
+    npm install
+    ```
+
+3. Start the development server:
+
+    ```bash
+    npm run dev
+    ```
 
 Happy Mapping! 🗺️
